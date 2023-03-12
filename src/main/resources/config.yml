@@ -1,6 +1,6 @@
-UsePermissions: true
-UseCatchChance: true
-LooseEggOnFail: true
+UsePermissions: false
+UseCatchChance: false
+LooseEggOnFail: false
 UseVaultCost: false
 UseItemCost: false
 UseHealthPercentage: false
